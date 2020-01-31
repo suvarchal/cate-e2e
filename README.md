@@ -29,3 +29,4 @@ $ git pull
 One can also use one of the many graphical GIT tools to work with the repository: [GIT tools](https://git-scm.com/downloads/guis).
 
 For more information see `README` files in each of the sub-directories of this repository.
+[!INCLUDE[sample include file](ci/reports/test_report.html)]
