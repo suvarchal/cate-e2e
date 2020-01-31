@@ -30,3 +30,6 @@ One can also use one of the many graphical GIT tools to work with the repository
 
 For more information see `README` files in each of the sub-directories of this repository.
 [!INCLUDE[sample include file](ci/reports/test_report.html)]
+
+{% include 'test_result.html' %}
+
